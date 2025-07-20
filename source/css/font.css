@@ -1,0 +1,13 @@
+@font-face{
+    font-family: '美丽宋体2';
+    font-display: swap;
+    src: url('../font/美丽宋体2.ttf') format("truetype");
+}
+@font-face{
+    font-family: '美丽宋体2';
+    font-display: swap;
+    src: url('../font/美丽宋体2.ttf') format("truetype");
+}
+body {
+    font-family: '美丽宋体2','美丽宋体2';
+}
